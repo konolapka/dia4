@@ -14,10 +14,10 @@ var passport_id = "123456789" // Номер паспорта
 var kpp_id = "0123456789" // ИНН
 
 // Права
-var rights_valid_until = "01.01.2022" // Права "Дійсні до"
-var rights_categories = "A, B" // Права "Категорії"
-var rights_tsc = "ТСЦ 8631" // Права "Видав
-var rights_id = "KBE968639" // Права "Серія та номер""
+var rights_valid_until = "11.08.2025" // Права "Дійсні до"
+var rights_categories = "A, B, C, D, E" // Права "Категорії"
+var rights_tsc = "ТСЦ 5школа ужгород" // Права "Видав
+var rights_id = "KBE696969" // Права "Серія та номер""
 
 // COVID-сертификат
 var covid_valid_until = "01.01.2022" // Сертификат "Дійсний до"
